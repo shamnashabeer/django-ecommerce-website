@@ -1,0 +1,96 @@
+.info{
+    background-color:  #a3d5ff;
+    height: 200px;
+    padding: 10px;
+}
+.info h1{
+    text-align: center;
+    color: #521b52;
+    padding: 10px;
+}
+.info span{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.diary{
+    text-align: center;
+    color: #521b52;
+    text-transform: capitalize;
+    padding: 20px;
+}
+.diary-pdt{
+    /* background-color: #a3d5ff; */
+}
+.list{
+    padding: 5px 0;
+}
+.prod-img{
+    margin-top: 120px;
+}
+.prod-detail{
+    margin-top: 15px;
+}
+.pro-description{
+    font-size: 20px;
+    margin-top: 10px;
+    line-height: 30px;
+}
+.add-btn{
+    border-radius: 10px;
+   font-size: 20px;
+   margin: 20px;
+   width: 250px;
+   height: 50px;
+   background-color: red;
+   color: white;
+   border-color: red;
+   
+}
+.buy-btn{
+    font-size: 22px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 7px;
+    width: 250px;
+    height: 50px;
+   background-color: black;
+   position: relative;
+   left:350px;
+   bottom: 70px;
+}
+.a-buy{
+    text-decoration: none;
+    color: white;
+    padding: 70px;
+
+}
+.add-btn:hover{
+    background-color : rgb(117, 40, 40);
+    border-color:rgb(117, 40, 40) ;
+}
+.buy-btn:hover{
+   background-color: rgb(89, 87, 87);
+   border-color: rgb(89, 87, 87);
+
+}
+.link-pdt{
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
+.abt-detail h2{
+    text-align: center;
+}
+.para-abt-detail {
+    font-size: 20px;
+}
+.cnt-detail{
+    text-align: center;
+}
+.cnt-detail p{
+    font-size: 20px;
+}
+.form-det{
+}
